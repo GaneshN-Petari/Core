@@ -1,0 +1,2 @@
+# Core
+Git submodule framework
